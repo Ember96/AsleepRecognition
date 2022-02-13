@@ -1,2 +1,4 @@
-# Closed-Eye-Detection-with-opencv
-First, using 'haarcascade_frontalface_alt.xml' to check if there is a face or not.  Second, using 'haarcascade_eye_tree_eyeglasses.xml' to check if there is a opened-eye or not. Thus, If I get data: face(o) -> eyes(x), that is the person who is closing his eyes.
+# Detección de estado de sueño con OpenCV
+Detección y enfoque de rostro
+Detección de ojos abiertos o cerrados
+Notificación tras 4 segundos de ojos cerrados
